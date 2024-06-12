@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main">#0E1317</color>
+    <color name="bg">#142127</color>
+    <color name="signing_boarder">#6F6F6F</color>
+    <color name="button">#32de8a</color>
+    <color name="button_with_alpha">#1cb7ec</color>
+</resources>
